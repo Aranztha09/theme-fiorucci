@@ -11,6 +11,8 @@
   },
   "order": [
     "desing-header",
-    "desing-hero" 
+    "desing-hero",
+    "desing-inspiring"
+
   ]
 }
