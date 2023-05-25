@@ -30,6 +30,7 @@
     color: #222222;
 }
 
+
 .container-logo-header{
     margin-right: 56px;
     display: flex;
@@ -46,4 +47,10 @@
 
 .text-login {
     margin-left: 41px;
+}
+
+.buttom-sign {
+    height: 39px;
+    width: 139px;
+    border-radius: 10px;
 }
