@@ -7,6 +7,9 @@
 
     "desing-hero" : {
       "type": "desing-hero" 
+    },
+    "desing-inspiring" : {
+      "type": "desing-inspiring"
     }
   },
   "order": [
