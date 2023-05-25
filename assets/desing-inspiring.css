@@ -11,7 +11,7 @@
 }
 
 .block-blue {
-    width: 1312px;
+    max-width: 1312px;
     height: 160px;
     background: #2F80ED;
     border-radius: 0px 32px 32px 0px;
