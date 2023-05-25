@@ -114,3 +114,11 @@
 .container-main-img img {
     width: 100%;
 }
+
+@media (max-width:1191px){
+    .container-info-hero {
+        padding-left: 80px;
+        margin-top: 90px;
+        width: 50%;
+    }
+}
