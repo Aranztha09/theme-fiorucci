@@ -87,3 +87,16 @@
     align-items: center;
     margin-top: 46px;
 }
+
+.container-first-img-circle {
+    position: relative;
+    left: 63px;
+}
+
+.container-last-img-circle {
+    position: relative;
+    bottom: 108px;
+    display: flex;
+    justify-content: end;
+    padding-right: 120.49px;
+}
