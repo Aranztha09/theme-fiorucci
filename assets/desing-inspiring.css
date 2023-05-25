@@ -17,6 +17,8 @@
     border-radius: 0px 32px 32px 0px;
     display: flex;
     align-items: center;
+    position: relative;
+    bottom: 88px;
 }
 
 
