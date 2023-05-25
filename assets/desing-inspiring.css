@@ -94,3 +94,13 @@
     color: #222222;
 }
 
+@media (max-width:1357){
+    .content-options {
+        min-width: 250px;
+    }
+
+    .block-blue {
+        max-width: 1100px;
+    }
+    
+}
