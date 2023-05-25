@@ -128,4 +128,8 @@
         display: flex;
     }
 
+    .container-menu-mobile {
+        display: flex;
+    }
+
 }
