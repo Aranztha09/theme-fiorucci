@@ -129,9 +129,10 @@
     }
 
     .container-info-hero {
-        padding-left: 80px;
+        padding-left: 30px;
         margin-top: 90px;
         width: 100%;
+        padding-right: 30px;
     }
 
     .container-img-hero {
