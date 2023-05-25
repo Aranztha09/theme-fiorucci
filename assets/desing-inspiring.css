@@ -11,3 +11,7 @@
     background: #2F80ED;
     border-radius: 0px 32px 32px 0px;
 }
+
+.text-block-blue {
+    display: flex;
+}
