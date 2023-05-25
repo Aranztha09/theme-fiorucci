@@ -94,6 +94,11 @@
     display: flex;
     margin-bottom: 5px;
     border-radius: 4px;
+    cursor: pointer;
+}
+
+.burger-menu .line-menu-mobile:last-child {
+    margin-bottom: 0;
 }
 
 @media (max-width:1191px){
