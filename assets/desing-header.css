@@ -88,10 +88,9 @@
 }
 
 .line-menu-mobile {
-    background-color: black:
     width: 10px;
-    height: 5px;
-    margin-bottom: 5px;
+    height: 4px;
+    background-color: #222222;
 }
 
 @media (max-width:1191px){
