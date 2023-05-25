@@ -76,3 +76,8 @@
     align-items: flex-end;
     color: #222222;
 }
+
+.buttom-login {
+    display: flex;
+    align-items: center;
+}
