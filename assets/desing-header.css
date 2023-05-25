@@ -101,6 +101,10 @@
     margin-bottom: 0;
 }
 
+.container-menu-mobile {
+    display: none;
+}
+
 @media (max-width:1191px){
     .item-menu-desing {
         margin-right: 29px;
