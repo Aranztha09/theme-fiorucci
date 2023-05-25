@@ -94,7 +94,7 @@
     color: #222222;
 }
 
-@media (max-width:1357){
+@media (max-width:1357px){
     .content-options {
         min-width: 250px;
     }
