@@ -46,6 +46,7 @@
     height: 55px;
     background: #2F80ED;
     border-radius: 100px;
+    margin-right: 19px;
 }
 
 
@@ -59,6 +60,7 @@
 
 .svg-buttom {
     margin-left: 10px;
+    display: flex;
 }
 
 .buttom-watch {
@@ -68,7 +70,7 @@
     width: 184px;
     height: 55px;
     border-radius: 10px;
-    border: solid 1px #2F80ED;;
+    border: solid 2px #2F80ED;;
 }
 
 .text-buttom-watch {
