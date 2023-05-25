@@ -8,12 +8,13 @@
 .container-hero {
     display: flex;
     justify-content: space-between;
-    padding-top: 46px;
 }
 
 .container-info-hero {
     padding-left: 120px;
+    margin-top: 181px;
 }
+
 
 .title-desing {
     font-family: 'GT America Trial';
@@ -79,4 +80,10 @@
     font-size: 18px;
     line-height: 23px;
     color: #2F80ED;
+}
+
+.container-img-top {
+    display: flex;
+    align-items: center;
+    margin-top: 46px;
 }
