@@ -87,7 +87,7 @@
     flex-direction: column;
 }
 
-.line-menu-mobile {
+.burger-menu .line-menu-mobile {
     width: 10px;
     height: 4px;
     background-color: #222222;
