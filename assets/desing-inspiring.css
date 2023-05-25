@@ -104,3 +104,13 @@
     }
     
 }
+
+
+@media (max-width:1111px){
+  
+    .block-blue {
+        max-width: 970px;
+        
+    }
+    
+}
