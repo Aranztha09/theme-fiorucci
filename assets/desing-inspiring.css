@@ -27,3 +27,12 @@
     color: #FFFFFF;
     opacity: 0.2;
 }
+
+.main-text-block {
+    font-family: 'GT America Trial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
