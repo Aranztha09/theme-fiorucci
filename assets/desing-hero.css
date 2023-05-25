@@ -10,3 +10,71 @@
     justify-content: space-between;
     padding-top: 46px;
 }
+
+.container-info-hero {
+    padding-left: 120px;
+}
+
+.title-desing {
+    font-family: 'GT America Trial';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 74px;
+    color: #222222;
+    margin-bottom: 24px;
+}
+
+.text-hero-desing {
+    font-family: 'GT America Trial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #222222;
+    margin-bottom: 46px;
+}
+
+.father-buttoms-hero {
+    display: flex;
+}
+
+.buttom-join {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 163px;
+    height: 55px;
+    background: #2F80ED;
+    border-radius: 100px;
+}
+
+
+.text-buttom-join {
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.svg-buttom {
+    margin-left: 10px;
+}
+
+.buttom-watch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 184px;
+    height: 55px;
+    border-radius: 10px;
+    border: solid 1px #2F80ED;;
+}
+
+.text-buttom-watch {
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #2F80ED;
+}
