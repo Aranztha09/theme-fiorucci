@@ -82,6 +82,15 @@
     align-items: center;
 }
 
+.burger-menu {
+    display: none;
+    flex-direction: column;
+}
+
+.line {
+    background-color: #222222;
+}
+
 @media (max-width:1191px){
     .item-menu-desing {
         margin-right: 29px;
@@ -97,7 +106,12 @@
 }
 
 @media (max-width:1106px){
-    .container-items-menu {
+    .container-items-menu, .container-items-nav{
         display: none;
     }
+
+    .burger-menu {
+        display: flex;
+    }
+
 }
