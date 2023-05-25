@@ -88,11 +88,12 @@
 }
 
 .burger-menu .line-menu-mobile {
-    width: 10px;
+    width: 31px;
     height: 4px;
-    background-color: #222222;
+    background-color: #222;
     display: flex;
     margin-bottom: 5px;
+    border-radius: 4px;
 }
 
 @media (max-width:1191px){
