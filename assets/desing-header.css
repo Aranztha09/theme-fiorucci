@@ -144,11 +144,14 @@
 
     .text-sign, .text-login{
         font-size: 25px;
-        margin-top: 10px;
     }
 
     .text-login{
         margin: 0;
+    }
+
+    .buttom-login-mobile , .text-login{
+        margin-top: 10px;
     }
 
 }
