@@ -91,6 +91,8 @@
     width: 10px;
     height: 4px;
     background-color: #222222;
+    display: flex;
+    margin-bottom: 5px;
 }
 
 @media (max-width:1191px){
