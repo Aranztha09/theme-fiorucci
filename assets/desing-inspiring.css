@@ -41,3 +41,7 @@
     color: #FFFFFF;
     margin-right: 32px;
 }
+
+.father-options-inspiring {
+    display: flex;
+}
