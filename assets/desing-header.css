@@ -95,3 +95,9 @@
         margin-left: 30px;
     }
 }
+
+@media (max-width:1106px){
+    .container-items-menu {
+        display: none;
+    }
+}
