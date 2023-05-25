@@ -6,10 +6,17 @@
 }
 
 .container-header{
+    position: fixed;
     display: flex;
     padding: 48px 36px 23px 64px;
     align-items: center;
     justify-content: space-between;
+    top: 0;
+    width: 100%;
+    display: flex;
+    left: 0;
+    z-index: 300;
+    background-color: white;
 }
 
 .container-items-menu {
