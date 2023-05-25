@@ -8,6 +8,7 @@
 .container-header{
     display: flex;
     padding: 48px 36px 23px 64px;
+    align-items: center;
 }
 
 .container-items-menu {
@@ -16,4 +17,21 @@
 
 .container-items-nav{
     display: flex;
+}
+
+.container-logo-header{
+    margin-right: 56px;
+    display: flex;
+}
+
+.item-menu-desing {
+    margin-right: 48px;
+}
+
+.item-menu-desing a {
+    
+}
+
+.item-menu-desing:last-child {
+    margin-right: 0;
 }
