@@ -115,6 +115,10 @@
     font-size: 25px;
 }
 
+.active {
+    display: flex;
+}
+
 @media (max-width:1191px){
     .item-menu-desing {
         margin-right: 29px;
@@ -138,9 +142,6 @@
         display: flex;
     }
 
-    .container-menu-mobile {
-        display: flex;
-    }
 
     .text-sign, .text-login{
         font-size: 25px;

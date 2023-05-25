@@ -45,7 +45,7 @@
 
         </div>
 
-        <div class="burger-menu">
+        <div class="burger-menu" id="burguer">
             <div class="line-menu-mobile"></div>
             <div class="line-menu-mobile"></div>
             <div class="line-menu-mobile"></div>
@@ -60,7 +60,7 @@
 
 </section>
 
-<section class="container-menu-mobile">
+<section class="container-menu-mobile" id="menu-mobile">
 
     <div class="menu-mobile">
         <div class="items-menu-mobile">Browse mentors</div>
@@ -77,3 +77,16 @@
     </div>
 
 </section>
+
+<script>
+
+    let burger = document.getElementById('burguer');
+    let menuMobile = document.getElementById('menu-mobile');
+
+    burger.addEventListener('click', function() {
+    menuMobile.classList.toggle ('active')
+    });
+
+
+
+</script>
