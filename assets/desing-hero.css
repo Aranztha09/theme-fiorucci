@@ -122,3 +122,21 @@
         width: 50%;
     }
 }
+
+@media (max-width:855px){
+    .container-hero {
+        display: block;
+    }
+
+    .container-info-hero {
+        padding-left: 80px;
+        margin-top: 90px;
+        width: 100%;
+    }
+
+    .container-img-hero {
+        width: 100%;
+    }
+    
+
+}
