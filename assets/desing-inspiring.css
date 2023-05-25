@@ -5,6 +5,11 @@
     text-decoration: none;
 }
 
+.father-inspiring {
+    background-color: #F6F6F6;
+
+}
+
 .block-blue {
     width: 1312px;
     height: 160px;
@@ -80,3 +85,4 @@
     text-align: center;
     color: #222222;
 }
+
