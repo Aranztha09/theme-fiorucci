@@ -156,3 +156,9 @@
     }
 
 }
+
+@media (max-width:679px) {
+    .container-header {
+        padding: 48px 36px 23px 33px;
+    }
+}

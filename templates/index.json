@@ -3,9 +3,14 @@
 
     "desing-header" : {
       "type":  "desing-header" 
+    },
+
+    "desing-hero" : {
+      "type": "desing-hero" 
     }
   },
   "order": [
-    "desing-header" 
+    "desing-header",
+    "desing-hero" 
   ]
 }
