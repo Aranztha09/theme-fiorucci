@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.block-blue {
+    width: 1312px;
+    height: 160px;
+    background: #2F80ED;
+    border-radius: 0px 32px 32px 0px;
+}
