@@ -20,6 +20,16 @@
     display: flex;
 }
 
+.text-item-menu{
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    display: flex;
+    align-items: flex-end;
+    color: #222222;
+}
+
 .container-logo-header{
     margin-right: 56px;
     display: flex;
