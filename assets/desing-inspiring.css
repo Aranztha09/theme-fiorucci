@@ -48,3 +48,35 @@
     align-items: center;
     padding-top: 128px;
 }
+
+.content-options {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content-insp {
+    margin-bottom: 48px;
+}
+
+.title-content-insp {
+    font-family: 'GT America Trial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 43px;
+    text-align: center;
+    color: #222222;
+    margin-bottom: 4px;
+}
+
+.text-content-insp{
+    font-family: 'GT America Trial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #222222;
+}
