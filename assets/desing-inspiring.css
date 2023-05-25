@@ -44,4 +44,7 @@
 
 .father-options-inspiring {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 128px;
 }
