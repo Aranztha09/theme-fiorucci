@@ -18,3 +18,12 @@
 .text-block-blue {
     display: flex;
 }
+
+.text-shadow {
+    font-family: 'GT America Trial';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 43px;
+    color: #FFFFFF;
+    opacity: 0.2;
+}
