@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container-header{
+    display: flex;
+    padding: 48px 36px 23px 64px;
+}
+
+.container-items-menu {
+    display: flex;
+}
+
+.container-items-nav{
+    display: flex;
+}
