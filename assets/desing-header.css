@@ -28,8 +28,9 @@
     margin-right: 48px;
 }
 
-.item-menu-desing a {
-    
+.container-logo-menu {
+    display: flex;
+    align-items: center;
 }
 
 .item-menu-desing:last-child {
