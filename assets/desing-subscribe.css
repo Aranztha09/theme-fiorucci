@@ -31,3 +31,11 @@
     color: #222222;
     margin-bottom: 24px;
 }
+
+.text-subscribe {
+    font-family: 'GT America Trial';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+}
