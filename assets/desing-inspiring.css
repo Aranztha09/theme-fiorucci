@@ -62,7 +62,7 @@
     justify-content: center;
     align-items: center;
     margin-right: 64px;
-    min-width: 352px;
+    width: 33.33%;
 }
 
 .content-options:last-child {
@@ -94,14 +94,31 @@
     color: #222222;
 }
 
-@media (max-width:1357px){
+@media (max-width:1370px){
     .content-options {
         min-width: 250px;
+    }
+
+    .content-options {
+        margin-right: 0;
     }
 
     .block-blue {
         max-width: 1100px;
     }
+
+    .father-options-inspiring {
+        flex-wrap: wrap;
+        padding: 0 50px 128px;
+    }
+
+    .content-options {
+       margin-bottom: 50px;
+    }
+
+    .content-options:last-child {
+        margin-bottom: 0px;
+     }
     
 }
 
