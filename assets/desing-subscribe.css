@@ -78,3 +78,6 @@
     right: 66px;
 }
 
+.container-main-img-sub, .class-main img {
+    width: 100%;
+}
