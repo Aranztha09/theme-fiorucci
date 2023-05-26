@@ -36,3 +36,11 @@
     display: flex;
 }
 
+.container-card-mentors {
+    width: 33.33%;
+    margin-right: 48px;
+}
+
+.container-card-mentors:last-child {
+    margin-right: 0;
+}
