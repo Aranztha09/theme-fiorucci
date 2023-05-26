@@ -71,3 +71,9 @@
     margin-left: 10px;
     display: flex;
 }
+
+.img-circle-sub {
+    position: relative;
+    top: 101.56px;
+    right: 66px;
+}
