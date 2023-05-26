@@ -77,3 +77,7 @@
     top: 101.56px;
     right: 66px;
 }
+
+.container-img-subscribe, .container-info-subscribe {
+    width: 50%;
+}
