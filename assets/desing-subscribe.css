@@ -8,6 +8,7 @@
 .father-section-subscribe {
     display: flex;
     justify-content: space-between;
+    padding-right: 135px;
 }
 
 .container-img-subscribe {
