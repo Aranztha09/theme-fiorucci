@@ -10,11 +10,17 @@
     },
     "desing-inspiring" : {
       "type": "desing-inspiring"
+    },
+
+    "desing-mentors" : {
+      "type": "desing-mentors"
     }
+
   },
   "order": [
     "desing-header",
     "desing-hero",
-    "desing-inspiring"
+    "desing-inspiring",
+    "desing-mentors"
   ]
 }
