@@ -133,3 +133,23 @@
     padding: 0 58px;
 }
 }
+
+
+@media (max-width:883px) {
+    .container-card-mentors {
+        display: none;
+    }
+
+    .container-all-cards {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .container-card-mentors {
+        margin-right: 0;
+    }
+
+    .-text-card {
+        display: none;
+    }
+}
