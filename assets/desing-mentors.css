@@ -115,6 +115,7 @@
     margin: auto;
     display: flex;
     margin-top: 64px;
+    margin-bottom: 128px;
 }
 
 .text-buttom-Browse-all {
@@ -154,6 +155,10 @@
 
     .-text-card {
         display: none;
+    }
+
+    .buttom-Browse-all {
+        margin-bottom: 90px;
     }
 }
 
@@ -201,5 +206,10 @@
 
     .buttom-Browse-all {
         margin: 30px auto auto;
+    }
+
+    .buttom-Browse-all {
+        margin-bottom: 60px;
+        
     }
 }
