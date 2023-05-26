@@ -140,6 +140,10 @@
         flex-direction: column;
     }
 
+    .father-options-inspiring {
+        padding: 0 50px 80px;
+    }
+
 
     .main-text-block, .text-shadow  {
         font-size: 25px;
