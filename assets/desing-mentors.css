@@ -103,3 +103,9 @@
     margin-left: 36px;
     padding-bottom: 61px;
 }
+
+@media (max-width:1019px) {
+    .father-all-mentors {
+    padding: 0 58px;
+}
+}
