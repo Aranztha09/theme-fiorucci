@@ -6,7 +6,7 @@
 }
 
 .father-all-mentors {
-    padding: 0 128px;
+    padding: 0 128px 128px;
 }
 
 .container-title-mentors {
@@ -115,7 +115,6 @@
     margin: auto;
     display: flex;
     margin-top: 64px;
-    margin-bottom: 128px;
 }
 
 .text-buttom-Browse-all {
@@ -134,7 +133,7 @@
 
 @media (max-width:1019px) {
     .father-all-mentors {
-    padding: 0 58px;
+    padding: 0 90px 58px;
 }
 }
 
@@ -157,9 +156,6 @@
         display: none;
     }
 
-    .buttom-Browse-all {
-        margin-bottom: 90px;
-    }
 }
 
 @media (max-width:846px) {
@@ -208,8 +204,8 @@
         margin: 30px auto auto;
     }
 
-    .buttom-Browse-all {
-        margin-bottom: 60px;
-        
+    .father-all-mentors {
+        padding: 0 60px 58px;
     }
+
 }
