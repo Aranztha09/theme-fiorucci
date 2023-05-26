@@ -140,12 +140,10 @@
         flex-direction: column;
     }
 
-    .text-shadow {
-        font-size: 25px;
-    }
 
-    .main-text-block {
+    .main-text-block, .text-shadow  {
         font-size: 25px;
+        line-height: 28px;
     }
 
     .block-blue {
