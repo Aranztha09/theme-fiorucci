@@ -147,3 +147,15 @@
         font-size: 55px;
     }
 }
+
+
+@media (max-width:389px){
+    .father-buttoms-hero {
+        display: block;
+    }
+
+    .buttom-join {
+        margin-bottom: 19px;
+    }
+    
+}
