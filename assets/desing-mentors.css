@@ -157,10 +157,32 @@
     }
 }
 
+@media (max-width:846px) {
+    .container-info-card {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+
+    .container-all-cards {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+}
+
 @media (max-width:800px) {
     .container-info-card {
         margin-left: 20px;
         margin-right: 20px;
     }
+
+    .container-card-mentors {
+        width: 100%;
+    }
+
 
 }
