@@ -29,6 +29,10 @@
     line-height: 20px;
     color: #222222;
     margin-bottom: 64.28px;
-    min-width: 600px;
+    max-width: 571px;
+}
+
+.container-all-cards {
+    display: flex;
 }
 
