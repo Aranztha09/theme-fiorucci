@@ -123,11 +123,22 @@
 }
 
 
+
+
 @media (max-width:1111px){
   
     .block-blue {
         max-width: 970px;
         
+    }
+    
+}
+
+@media (max-width:645px){
+  
+
+    .father-options-inspiring {
+        flex-direction: column;
     }
     
 }
