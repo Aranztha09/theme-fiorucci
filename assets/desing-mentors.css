@@ -104,6 +104,24 @@
     padding-bottom: 61px;
 }
 
+.buttom-Browse-all {
+    max-width: 244px;
+    height: 55px;
+    background: #2F80ED;
+    border-radius: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-buttom-Browse-all {
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+
 @media (max-width:1019px) {
     .father-all-mentors {
     padding: 0 58px;
