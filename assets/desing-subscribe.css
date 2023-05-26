@@ -9,6 +9,7 @@
     display: flex;
     justify-content: space-between;
     padding-right: 135px;
+    padding-bottom: 126.65px;
 }
 
 .container-img-subscribe {
@@ -80,4 +81,15 @@
 
 .container-main-img-sub, .class-main{
     width: 100%;
+}
+
+@media (max-width:1047px){
+    .father-section-subscribe {
+        padding-right: 90px;
+        padding-bottom: 90px;
+    }
+
+    .title-suscribe {
+        padding-top: 90px;
+    }
 }
