@@ -136,9 +136,21 @@
 
 @media (max-width:645px){
   
-
     .father-options-inspiring {
         flex-direction: column;
     }
+
+    .text-shadow {
+        font-size: 25px;
+    }
+
+    .main-text-block {
+        font-size: 25px;
+    }
+
+    .block-blue {
+      padding: 20px;
+    }
+    
     
 }
