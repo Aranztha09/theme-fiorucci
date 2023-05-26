@@ -93,3 +93,10 @@
         padding-top: 90px;
     }
 }
+
+@media (max-width:873px){
+
+    .title-suscribe {
+        padding-top: 30px;
+    }
+}
