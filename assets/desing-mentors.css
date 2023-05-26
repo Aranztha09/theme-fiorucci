@@ -5,8 +5,12 @@
     text-decoration: none;
 }
 
+.father-all-mentors {
+    padding: 0 128px;
+}
+
 .container-title-mentors {
-    padding: 128px 0 0 128px;
+    padding-top: 128px;
 }
 
 .title-mentors {
