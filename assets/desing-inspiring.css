@@ -53,7 +53,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 128px;
+    padding: 0 50px 128px;
 }
 
 .content-options {
