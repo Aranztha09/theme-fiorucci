@@ -40,6 +40,8 @@
 .container-card-mentors {
     width: 33.33%;
     margin-right: 48px;
+    background: #FFFFFF;
+    border-radius: 0px 0px 32px 32px;
 }
 
 .container-card-mentors:last-child {
