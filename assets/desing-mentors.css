@@ -8,3 +8,22 @@
 .container-title-mentors {
     padding-top: 128px;
 }
+
+.title-mentors {
+    font-family: 'GT America Trial';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 43px;
+    color: #222222;
+    margin-bottom: 24px;
+}
+
+.text-mentors {
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+    margin-bottom: 64.28px;
+}
+
