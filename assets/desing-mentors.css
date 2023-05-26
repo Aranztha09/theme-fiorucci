@@ -136,7 +136,7 @@
 
 
 @media (max-width:883px) {
-    .container-card-mentors {
+    .container-card-mentors:last-child {
         display: none;
     }
 
