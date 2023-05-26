@@ -38,6 +38,8 @@
     line-height: 20px;
     color: #222222;
     margin-bottom: 33.4px;
+    max-width: 540px;
+
 }
 
 .span-subsribe {
@@ -65,4 +67,5 @@
 
 .svg-subs {
     margin-left: 10px;
+    display: flex;
 }
