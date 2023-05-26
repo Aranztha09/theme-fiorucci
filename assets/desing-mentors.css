@@ -45,3 +45,7 @@
 .container-card-mentors:last-child {
     margin-right: 0;
 }
+
+.container-img-card, .img-card{
+    width: 100%;
+}
