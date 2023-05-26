@@ -181,8 +181,11 @@
     }
 
     .container-card-mentors {
-        width: 100%;
+        width: 60%;
     }
 
+    .container-card-mentors:first-child {
+        margin-bottom: 40px;
+    }
 
 }
