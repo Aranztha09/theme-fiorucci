@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.father-section-subscribe {
+    display: flex;
+}
+
+.container-img-subscribe {
+    display: flex;
+}
+
+.title-suscribe {
+    font-family: 'GT America Trial';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 43px;
+    color: #2F80ED;
+    padding-top: 164.42px;
+    margin-bottom: 12px;
+}
+
+.price-sub {
+    font-family: 'GT America Trial';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #222222;
+    margin-bottom: 24px;
+}
