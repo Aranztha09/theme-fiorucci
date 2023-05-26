@@ -130,6 +130,10 @@
     margin-left: 10px;
 }
 
+.container-card-mentors:hover {
+    box-shadow: 5px -1px 12px -1px gray;
+}
+
 
 @media (max-width:1019px) {
     .father-all-mentors {
