@@ -60,10 +60,25 @@
     color: #222222;
 }
 
-.profession-mentors{
+.profession-mentors, .-text-card{
     font-family: 'GT America Trial';
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
     color: #222222;
+}
+
+.buttom-card {
+    min-width: 157px;
+    height: 32px;
+    border-radius: 100px;
+    border: solid 2px #2F80ED;;
+    color:  #2F80ED;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.svg-arrow-card {
+    margin-left: 10px;
 }
