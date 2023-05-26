@@ -111,6 +111,8 @@
     border-radius: 100px;
     justify-content: center;
     align-items: center;
+    margin: auto;
+    display: flex;
 }
 
 .text-buttom-Browse-all {
@@ -119,6 +121,11 @@
     font-size: 18px;
     line-height: 23px;
     color: #FFFFFF;
+}
+
+.svg-buttom-browse-all {
+    display: flex;
+    margin-left: 10px;
 }
 
 
