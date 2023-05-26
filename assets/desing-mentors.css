@@ -138,7 +138,7 @@
 }
 
 
-@media (max-width:883px) {
+@media (max-width:1089px) {
     .container-card-mentors:last-child {
         display: none;
     }
