@@ -14,13 +14,18 @@
 
     "desing-mentors" : {
       "type": "desing-mentors"
-    }
+    },
+
+    "desing-subscribe" : {
+      "type": "desing-subscribe"
+    },
 
   },
   "order": [
     "desing-header",
     "desing-hero",
     "desing-inspiring",
-    "desing-mentors"
+    "desing-mentors",
+    "desing-subscribe"
   ]
 }
