@@ -152,3 +152,12 @@
     
     
 }
+
+@media (max-width:393px){
+    .main-text-block, .text-shadow  {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    
+}
