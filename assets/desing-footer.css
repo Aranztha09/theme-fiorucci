@@ -8,7 +8,7 @@
 .father-footer {
     display: flex;
     padding: 128px 128px 0 128px;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .title-items-footer {
