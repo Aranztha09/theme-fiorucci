@@ -43,7 +43,7 @@
     display: flex;
     align-items: center;
     padding: 16px 32px;
-    min-width: 163px;
+    max-width: 163px;
     min-height: 55px;
     background: #222222;
     border-radius: 100px;
