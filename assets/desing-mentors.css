@@ -204,6 +204,7 @@
 
 
 @media (max-width:534px) {
+
     .father-all-mentors {
         padding: 0 20px;
     }
@@ -214,6 +215,15 @@
 
     .father-all-mentors {
         padding: 0 60px 58px;
+    }
+
+}
+
+
+@media (max-width:497px) {
+
+    .father-all-mentors {
+        padding: 0 10px 58px;
     }
 
 }
