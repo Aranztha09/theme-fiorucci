@@ -9,3 +9,11 @@
     display: flex;
     padding: 128px 128px 0 128px;
 }
+
+.title-items-footer {
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #222222;
+}
