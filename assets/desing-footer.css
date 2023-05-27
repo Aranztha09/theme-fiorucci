@@ -189,7 +189,11 @@
 
     .container-redes {
         margin-right: 10px;
-        
+
+    }
+
+    .logo-footer-desing img {
+        width: 100%;
     }
     
 }
