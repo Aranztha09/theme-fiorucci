@@ -65,4 +65,8 @@
     .triangle-block svg {
         right: 11px;
     }
+
+    .title-block-start {
+        font-size: 29px;
+    }
 }
