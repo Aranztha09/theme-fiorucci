@@ -149,6 +149,14 @@
     }
 }
 
+
+@media (max-width:919px) {
+
+    .remove{
+        display: none;
+    }
+}
+
 @media (max-width:634px) {
 
     .father-footer {
