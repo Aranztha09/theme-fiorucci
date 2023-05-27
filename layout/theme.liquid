@@ -340,7 +340,12 @@
       },
     });
 
-    
+    function getDirection() {
+      var windowWidth = window.innerWidth;
+      var direction = window.innerWidth <= 300 ? 'vertical' : 'horizontal';
+
+      return direction;
+    }
   </script>
 
 
