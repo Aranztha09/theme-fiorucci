@@ -78,7 +78,7 @@
 
 .buttom-card {
     max-width: 157px;
-    height: 32px;
+    min-height: 32px;
     border-radius: 100px;
     border: solid 2px #2F80ED;;
     display: flex;
