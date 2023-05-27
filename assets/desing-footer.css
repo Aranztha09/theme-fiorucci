@@ -61,7 +61,7 @@
 }
 
 @media (max-width:1000px) {
-   
+
     .text-input {
         max-width: 200px;
     }
@@ -76,7 +76,7 @@
 }
 
 @media (max-width:634px) {
-   
+
     .father-footer {
         flex-direction: column;
         justify-content: center;
@@ -84,6 +84,10 @@
     }
 
     .items-footer {
-       margin-right: 6px;
+        margin-right: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
