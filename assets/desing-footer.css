@@ -69,4 +69,8 @@
     .input-footer-desing {
         min-width: 200px;
     }
+
+    .father-footer {
+        padding: 48px 30px 0;
+    }
 }
