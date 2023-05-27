@@ -122,6 +122,7 @@
 .items-menu-mobile {
     font-size: 35px;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .items-menu-mobile:hover {
