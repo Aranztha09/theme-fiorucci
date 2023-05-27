@@ -79,6 +79,12 @@
     align-items: center;
 }
 
+.father-logo-footer-desing{
+    display: flex;
+}
+
+
+
 @media (max-width:1220px) {
     .father-footer {
         padding: 128px 30px 0;
