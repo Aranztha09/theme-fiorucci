@@ -74,3 +74,16 @@
         padding: 48px 30px 0;
     }
 }
+
+@media (max-width:634px) {
+   
+    .father-footer {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .items-footer {
+       margin-right: 6px;
+    }
+}
