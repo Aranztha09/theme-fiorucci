@@ -124,6 +124,10 @@
     font-weight: 700;
 }
 
+.items-menu-mobile:hover {
+    color: gray;
+}
+
 .active {
     display: flex;
 }
