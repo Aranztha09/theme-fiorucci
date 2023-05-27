@@ -127,6 +127,11 @@
     .father-footer {
         padding: 128px 30px 0;
     }
+
+    .footer-bottom-desing {
+        padding: 92px 30px 0;
+    
+    }
 }
 
 @media (max-width:1000px) {
