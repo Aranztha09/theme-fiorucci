@@ -104,3 +104,15 @@
         padding-right: 30px;
     }
 }
+
+
+@media (max-width:649px){
+
+    .father-section-subscribe {
+        padding-right: 30px;
+    }
+
+    .container-info-subscribe {
+        padding-left: 30px;
+    }
+}
