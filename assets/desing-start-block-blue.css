@@ -60,3 +60,9 @@
     line-height: 23px;
     color: #FFFFFF;
 }
+
+@media (max-width:612px) {
+    .triangle-block svg {
+        right: 11px;
+    }
+}
