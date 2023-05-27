@@ -64,9 +64,17 @@
 @media (max-width:612px) {
     .triangle-block svg {
         right: 11px;
+        width: 20px;
     }
 
     .title-block-start {
         font-size: 29px;
+    }
+
+}
+
+@media (max-width:441px) {
+    .title-block-start {
+        font-size: 23px;
     }
 }
