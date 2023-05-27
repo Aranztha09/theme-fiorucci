@@ -33,6 +33,11 @@
     line-height: 43px;
     color: #FFFFFF;
     opacity: 0.2;
+    cursor: pointer;
+}
+
+.text-shadow:hover {
+    opacity: 1;
 }
 
 .text-shadow:first-child {
@@ -47,6 +52,7 @@
     line-height: 43px;
     color: #FFFFFF;
     margin-right: 32px;
+    cursor: pointer;
 }
 
 .father-options-inspiring {
