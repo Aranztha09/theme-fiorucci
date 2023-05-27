@@ -174,5 +174,22 @@
         align-items: center;
         margin-bottom: 30px;
     }
+
+    .logo-footer-desing{
+        width: 40px;
+    }
+
+    .container-redes {
+        width: 15px;
+    }
+
+    .logo-footer-desing {
+        margin-right: 24px;
+    }
+
+    .container-redes {
+        margin-right: 10px;
+        
+    }
     
 }
