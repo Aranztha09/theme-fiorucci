@@ -22,7 +22,12 @@
 
     "desing-start-block-blue" : {
       "type": "desing-start-block-blue"
+    },
+
+    "desing-footer" : {
+      "type": "desing-footer"
     }
+
 
   },
   "order": [
@@ -31,6 +36,7 @@
     "desing-inspiring",
     "desing-mentors",
     "desing-subscribe",
-    "desing-start-block-blue"
+    "desing-start-block-blue",
+    "desing-footer"
   ]
 }
