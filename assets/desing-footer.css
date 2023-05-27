@@ -115,6 +115,7 @@
 
 .container-redes {
     margin-right: 24px;
+    display: flex;
 }
 
 .container-redes:last-child {
