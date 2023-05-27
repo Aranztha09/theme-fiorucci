@@ -18,3 +18,12 @@
     justify-content: center;
     padding-top: 74px;
 }
+
+.title-block-start {
+    font-family: 'GT America Trial';
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 43px;
+    text-align: center;
+    color: #FFFFFF;
+}
