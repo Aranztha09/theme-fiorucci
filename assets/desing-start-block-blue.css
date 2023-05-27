@@ -16,4 +16,5 @@
 .container-title-block-start {
     display: flex;
     justify-content: center;
+    padding-top: 74px;
 }
