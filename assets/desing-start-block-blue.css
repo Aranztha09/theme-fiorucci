@@ -48,3 +48,11 @@
     background: #222222;
     border-radius: 100px;
 }
+
+.text-buttom-block-join {
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
