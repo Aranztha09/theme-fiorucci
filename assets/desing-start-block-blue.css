@@ -5,3 +5,9 @@
     text-decoration: none;
 }
 
+.block-start {
+    min-width: 928px;
+    min-height: 260px;
+    background: #2F80ED;
+    border-radius: 32px;
+}
