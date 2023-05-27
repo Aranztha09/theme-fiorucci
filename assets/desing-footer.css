@@ -61,6 +61,16 @@
     display: flex;
 }
 
+.svg-footer-desing {
+    position: relative;
+}
+
+.svg-footer-desing {
+    position: absolute;
+    right: 8px;
+    top: 15px;
+    cursor: pointer;
+}
 
 @media (max-width:1220px) {
     .father-footer {
