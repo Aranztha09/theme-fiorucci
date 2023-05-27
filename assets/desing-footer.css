@@ -80,9 +80,31 @@
 }
 
 .father-logo-footer-desing{
+    justify-content: center;
+    align-items: center;
     display: flex;
 }
 
+.container-text-footer-bottom {
+    display: flex;
+}
+
+.logo-footer-desing {
+    margin-right: 32px;
+}
+
+.text-footer-bottom-left {
+    font-family: 'GT America Trial';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #222222;
+}
+
+.text-footer-bottom-left:last-child {
+    background: #828282;
+
+}
 
 
 @media (max-width:1220px) {
