@@ -73,7 +73,7 @@
 }
 
 .footer-bottom-desing {
-    padding-top: 92px;
+    padding:  92px 128px 0 128px;
     display: flex;
     justify-content: space-between;
     align-items: center;
