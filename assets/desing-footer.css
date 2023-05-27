@@ -27,10 +27,10 @@
     line-height: 18px;
     color: #222222;
     margin-bottom: 10px;
-    }
+}
 
 
 .text-input {
-    min-width: 500px;
+    max-width: 451px;
+    width: 100%;
 }
-
