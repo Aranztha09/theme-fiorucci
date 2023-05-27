@@ -34,3 +34,16 @@
     max-width: 451px;
     width: 100%;
 }
+
+.input-footer-desing {
+    border: none;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    min-width: 502px;
+    height: 40px;
+    background: #F6F6F6;
+    border-radius: 4px;
+}
