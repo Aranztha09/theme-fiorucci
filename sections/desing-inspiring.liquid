@@ -4,20 +4,15 @@
 
     <div class="block-blue">
 
+    
 
         <div class="swiper text-block-blue">
             <div class="swiper-wrapper">
-              <div class="swiper-slide">
-                <div class="text-shadow">Thinking about quitting your job?</div>
-              </div>
-              <div class="swiper-slide">
-                <div class="main-text-block">Are you inspiring your team?</div>
-              </div>
-              <div class="swiper-slide">
-                <div class="text-shadow">Navigating the corporate culture?</div>
-              </div>
+              <div class="swiper-slide">Thinking about quitting your job?</div>
+              <div class="swiper-slide">Are you inspiring your team?</div>
+              <div class="swiper-slide">Navigating the corporate culture?</div>
             </div>
-        </div>
+          </div>
 
     </div>
 
@@ -53,26 +48,3 @@
 
 
 </section>
-
-<script>
-    var swiper = new Swiper('.swiper', {
-      slidesPerView: 3,
-      direction: getDirection(),
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-      on: {
-        resize: function () {
-          swiper.changeDirection(getDirection());
-        },
-      },
-    });
-
-    function getDirection() {
-      var windowWidth = window.innerWidth;
-      var direction = window.innerWidth <= 760 ? 'vertical' : 'horizontal';
-
-      return direction;
-    }
-  </script>
