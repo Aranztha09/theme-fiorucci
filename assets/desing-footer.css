@@ -105,7 +105,16 @@
 .text-footer-bottom-left:last-child {
     color: #828282;
     margin-right: 0px;
+}
 
+.father-redes-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-redes {
+    margin-right: 24px;
 }
 
 
