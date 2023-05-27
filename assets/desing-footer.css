@@ -57,6 +57,10 @@
     display: flex;
 }
 
+.form-desing {
+    display: flex;
+}
+
 
 @media (max-width:1220px) {
     .father-footer {
