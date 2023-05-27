@@ -28,3 +28,13 @@
     color: #FFFFFF;
     margin-bottom: 24px;
 }
+
+.triangle-block {
+    position: relative;
+}
+
+.triangle-block svg {
+    position: absolute;
+    right: 34px;
+    bottom: 12px;
+}
