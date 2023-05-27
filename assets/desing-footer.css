@@ -33,6 +33,7 @@
 .text-input {
     max-width: 451px;
     width: 100%;
+    margin-bottom: 16px;
 }
 
 .input-footer-desing {
