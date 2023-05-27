@@ -36,9 +36,7 @@
     cursor: pointer;
 }
 
-.text-shadow:hover {
-    opacity: 1;
-}
+
 
 .text-shadow:first-child {
     margin-right: 40px;
