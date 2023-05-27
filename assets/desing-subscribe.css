@@ -109,7 +109,7 @@
 @media (max-width:649px){
 
     .father-section-subscribe {
-        padding-right: 30px;
+        flex-direction: column;
     }
 
     .container-info-subscribe {
