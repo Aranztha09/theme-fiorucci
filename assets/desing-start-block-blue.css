@@ -13,3 +13,6 @@
     margin: auto;
 }
 
+.container-title-block-start {
+    display: flex;
+}
