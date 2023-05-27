@@ -18,6 +18,10 @@
 
     "desing-subscribe" : {
       "type": "desing-subscribe"
+    },
+
+    "desing-start-block-blue" : {
+      "type": "desing-start-block-blue"
     }
 
   },
@@ -26,6 +30,7 @@
     "desing-hero",
     "desing-inspiring",
     "desing-mentors",
-    "desing-subscribe"
+    "desing-subscribe",
+    "desing-start-block-blue"
   ]
 }
